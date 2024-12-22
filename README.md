@@ -10,4 +10,5 @@ Yuexutong目录为岳绪同硕士学位论文相关实验代码。
 
 ---
 
-Sumengan、Liguanqun还未上传
+Liguanqun: https://github.com/kayzhou/Goods_LLM
+
