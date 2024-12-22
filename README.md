@@ -8,7 +8,11 @@ Zhangyue目录为张悦硕士学位论文相关实验代码。
 
 Yuexutong目录为岳绪同硕士学位论文相关实验代码。
 
+Sumengan目录为苏孟安硕士学位论文相关实验代码。
+
 ---
 
 Liguanqun: https://github.com/kayzhou/Goods_LLM
+
+
 
